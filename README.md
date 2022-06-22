@@ -1,2 +1,2 @@
-# CalculoArea
+# ejercicioSuma
 Created with CodeSandbox
